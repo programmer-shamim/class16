@@ -1,0 +1,132 @@
+.header{
+    background-color:#101446;
+}
+.header-logo{
+    display: inline-block;
+    padding: 10px;
+}
+.header-logo img{
+    width:80px ;
+    height: 50px;
+}
+.header-menu{
+    display: inline-block;
+}
+.header-menu ul{
+    margin-bottom: 0;
+}
+.header-menu ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.header-menu ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    line-height: 65px;
+
+}
+.banner{
+    background-image: url(img/intro-bg.jpg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 265px;
+}
+.banner-text h3{
+  margin-bottom: 30px;
+}
+.button{
+    margin-top: 30px;
+}
+.button a{
+    background-color: #4D8BC2;
+    padding:5px 10px ;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.intro-section{
+    background-color: #BAC1F3;
+    padding: 100px;
+   
+}
+.intro-section h1{
+    margin-bottom: 50px;
+}
+.card{
+    background-color: #BAC1F3;
+    text-align: center;
+    border: none;
+    width:200px;
+}
+.card img{
+    width:200px;
+    height: 300px;
+}
+.card a{
+    background-color: #337AB7;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 120px;
+    margin-left: 40px;
+}
+.card-p{
+    font-weight: bold;
+    margin-top: 2px;
+}
+.about{
+    background-color: #C2D4EA;
+    padding: 100px;
+}
+.about h1{
+    margin-bottom: 50px;
+}
+.about-img{
+    text-align: left;
+}
+.about-info{
+    text-align: left;
+    line-height: 30px;
+}
+
+.about-section1{
+    text-align: left;
+    margin-top: 20px;
+
+}
+.about-section2{
+    text-align: left;
+    margin-top: 10px;
+}
+.contact-info{
+    background-color: #F5F5F5;
+    padding: 100px;
+}
+.contact-info h1{
+    margin-bottom: 50px;
+}
+.input{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #E2E2E2;
+    padding: 5px;
+}
+.submit{
+    background-color: #5BC0DE;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.footer{
+    background-color: #0062D3;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+
